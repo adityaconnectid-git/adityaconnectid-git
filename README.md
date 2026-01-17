@@ -1,4 +1,4 @@
-## Hi, I'm Aditya
+## Hi, I'm Aditya Tiwari
 
 - B.Voc Software Development student (2nd Year)
 - Learning Data Science with Python
