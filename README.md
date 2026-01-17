@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Aditya
 
-<!--
-**adityaconnectid-git/adityaconnectid-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- B.Voc Software Development student (2nd Year)
+- Learning Data Science with Python
+- Currently working on data analysis and ML fundamentals
 
-Here are some ideas to get you started:
+### Skills
+- Python
+- Pandas, NumPy
+- Matplotlib / Seaborn
+- Basic Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Goals
+- Build strong fundamentals
+- Create real-world data projects
+- Maintain consistent GitHub activity
