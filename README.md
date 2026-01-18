@@ -1,10 +1,10 @@
 ## Hi, I'm Aditya Tiwari
 
-- B.Voc Software Development student (2nd Year)
+- B.Voc Software Development student 
 - Learning Data Science with Python
 - Currently working on data analysis and ML fundamentals
 
-### Skills
+### Skills Learning
 - Python
 - Pandas, NumPy
 - Matplotlib / Seaborn
